@@ -8,7 +8,7 @@ Classification : Ko'krak saratonini aniqlash
 <br><br>
 Faylni yuklab olib, Anaconda: Jupyter ,Google Colab, Visual Studio : Jupyter kabi code editor va online servislarda ishlatib ko'rish mumkin.<br>
 Agar shu yerni o'zida online ishlatib ko'rishni istasangiz ,[" Breast_Cancer_Detection.ipynb "] fayliga kiring va " Open in colab " tugmasini bosing <br>
-<br><strong>Ishlatilgan DataSet uchun havola :</strong> [" https://raw.githubusercontent.com/anvarnarz/praktikum_datasets/main/breast-cancer.csv "] faylida<br>
+<br><strong>Ishlatilgan DataSet uchun havola :</strong> [" https://raw.githubusercontent.com/anvarnarz/praktikum_datasets/main/breast-cancer.csv "]<br>
 <p><strong>Diqqat :</strong> Bu DataSet dan faqat amaliyot uchun foydalanildi.</p>
 <br><br>
 <strong>Ishlatilgan texnologiya va modullar :</strong><br>
